@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/ghariebml"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ghariebml@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/GhariebML/portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=GhariebML&style=for-the-badge&color=blue" alt="profile views"/>
+  ![Profile Views](https://komarev.com/ghpvc/?username=GhariebML&style=for-the-badge&color=blue)
 </p>
 
 ---
@@ -20,7 +20,7 @@
 - 🎓 Applied AI & Data Analytics Trainee at **Digilians – MCIT Digital Pioneers Initiative**
 - 🏆 **IBM Data Science** & **Google Data Analytics** Professional Certificate holder
 - 💡 Passionate about turning raw data into actionable business insights
-- 🌍 Based in Alexandria, Egypt | Open to Remote & Freelance work
+- 🌍 Based in **Kafr El Dawwar, Beheira, Egypt** | Open to Remote & Freelance work
 - 💫 Reach me on [LinkedIn](https://linkedin.com/in/ghariebml) or [Email](mailto:ghariebml@gmail.com)
 
 ---
@@ -29,22 +29,23 @@
 
 **Languages & Libraries:**
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-[![XGBoost](https://img.shields.io/badge/XGBoost-EC5C10?style=flat-square&logo=xgboost&logoColor=white)](https://xgboost.readthedocs.io)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://tensorflow.org)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)](https://matplotlib.org)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-AA0000?style=flat&logoColor=white)](https://xgboost.readthedocs.io/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://tensorflow.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logoColor=white)](https://matplotlib.org/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 **Tools & Platforms:**
 
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GhariebML)
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
-[![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)](https://microsoft.com/excel)
-[![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/GhariebML)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://microsoft.com/excel)
+[![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
+[![IBM SPSS](https://img.shields.io/badge/IBM_SPSS-052FAD?style=flat&logo=ibm&logoColor=white)](https://www.ibm.com/spss)
 
 ---
 
@@ -52,6 +53,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
+| [📊 Statistical Analysis of Student Performance (SPSS)](https://github.com/GhariebML/Student_Performance_Statistical_Analysis_SPSS) | Complete statistical analysis (n=20): EDA, Outlier Detection, Independent-Samples t-Test, Pearson Correlation | IBM SPSS, Statistics, Data Analysis |
 | [🔄 Telco Customer Churn Prediction](https://github.com/GhariebML/Telco_Churn_Prediction) | End-to-end ML pipeline: EDA, feature engineering, 3 model comparison, XGBoost best | Python, Scikit-learn, XGBoost |
 | [🚗 UK Road Accident Analysis](https://github.com/GhariebML/UK-Road-Accident-Analysis) | EDA on 300K+ accident records, severity patterns by road type & weather | Python, Pandas, Seaborn |
 | [🔐 SecurePass AI](https://github.com/GhariebML/ICAIL_Final_Graduation_Project_Random_Password_Maker) | ML-powered password strength analyzer & generator using Random Forest | Python, Scikit-learn |
@@ -63,12 +65,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GhariebML&show_icons=true&theme=dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhariebML&layout=compact&theme=dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GhariebML&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhariebML&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GhariebML&theme=dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GhariebML&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -78,7 +80,8 @@
 - 🎓 **IBM Data Science Professional Certificate** — Coursera
 - 🎓 **Google Data Analytics Professional Certificate** — Coursera
 - 🏆 **Applied AI & Data Analytics** — Digilians / MCIT Digital Pioneers Initiative
+- 📊 **Applied Statistics & Data Analysis** — MTC (March 2026)
 
 ---
 
-<p align="center"><i>"Extracting Insights. Empowering Communities."</i></p>
+> *"Extracting Insights. Empowering Communities."*

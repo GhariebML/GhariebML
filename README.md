@@ -51,7 +51,7 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [🔄 Telco Customer Churn Prediction](https://github.com/GhariebML/Telco_Churn_Prediction) | End-to-end ML pipeline: EDA, feature engineering, 5 model comparison, churn insights | Python, Scikit-learn, XGBoost |
-| [🚗 UK Road Accident Analysis](https://github.com/GhariebML/New-GitHub-Project-UK-Road-Accident-Data-2021-End-to-End-EDA-Baseline-ML) | EDA on 300K+ accident records, severity patterns by road type & weather | Python, Pandas, Seaborn |
+| [🚗 UK Road Accident Analysis](https://github.com/GhariebML/UK-Road-Accident-Analysis) | EDA on 300K+ accident records, severity patterns by road type & weather | Python, Pandas, Seaborn |
 | [🔐 SecurePass AI](https://github.com/GhariebML/ICAIL_Final_Graduation_Project_Random_Password_Maker) | ML-powered password strength analyzer using Random Forest | Python, Scikit-learn |
 | [📚 NLP Text Representation](https://github.com/GhariebML/NLP_Text_Representation_Techniques) | BoW, TF-IDF, Word2Vec, BERT embeddings comprehensive notebook | Python, NLP, BERT |
 | [🤖 Deep Learning Course](https://github.com/GhariebML/The_Complete_Deep_Learning_Course) | CNN, RNN, and real-world AI project notebooks | Python, TensorFlow |

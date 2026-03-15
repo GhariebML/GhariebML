@@ -25,7 +25,7 @@
 | 💼 **Current Role** | Applied AI & Data Analytics Trainee @ Digilians (MCIT) |
 | 🏢 **Founder & CEO** | LEADUP (Learn, Lead, Impact) — Non-profit since Dec 2022 |
 | 🎓 **Education** | Diploma in Nanotechnology — Beni-Suef University |
-| 🌍 **Location** | Kafr El Dawwar, Beheira, Egypt |
+| 🌍 **Location** | El Montazah, Alexandria, Egypt |
 | 📧 **Email** | ghariebml@gmail.com |
 | 💼 **Open To** | Data Scientist · ML Engineer · AI Engineer · Senior Data Analyst |
 | 🗣️ **Languages** | Arabic (Native) · English (Professional) |

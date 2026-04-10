@@ -174,9 +174,8 @@ I'm a Data Scientist and ML Engineer with a Physics background, focused on build
 
 <div align="center">
 
-| Overall Statistics | Top Languages |
-|:---:|:---:|
-| <img src="https://github-readme-stats.vercel.app/api?username=GhariebML&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhariebML&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" /> |
+<img src="https://github-readme-stats.vercel.app/api?username=GhariebML&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="195" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhariebML&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="195" alt="Top Languages" />
 
 <br/>
 

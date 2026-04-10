@@ -2,14 +2,12 @@
 
 # 👋 Hi, I'm Mohamed Gharieb
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Data+Scientist+%26+ML+Engineer+🤖;IBM+%26+Google+Certified+Professional+🏆;NLP+%7C+Deep+Learning+%7C+Statistical+Analysis;Open+to+Freelance+%26+Full-time+Roles+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Data+Scientist+%26+ML+Engineer;IBM+%26+Google+Certified+Professional;NLP+%7C+Deep+Learning+%7C+Statistical+Analysis;Open+to+Freelance+%26+Full-time+Roles)](https://git.io/typing-svg)
 
-<p>
-  <a href="https://linkedin.com/in/ghariebml"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ghariebml@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/GhariebML"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://mohamed-gharieb-portfolio.vercel.app"><img src="https://img.shields.io/badge/Website-0e75b6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghariebml)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghariebml@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhariebML)
+[![Website](https://img.shields.io/badge/Website-0e75b6?style=for-the-badge&logo=vercel&logoColor=white)](https://mohamed-gharieb-portfolio.vercel.app)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GhariebML&color=58A6FF&style=for-the-badge)
 
@@ -82,7 +80,7 @@
 
 | 🔗 Project | 📋 Description | 🛠️ Stack | ⭐ |
 |---|---|---|---|
-| [🏨 Hotel Intelligence System](https://github.com/GhariebML/Hotel-Booking-Dashboard) | 11-table SQL DB from 119,390 records, ML cancellation prediction, Power BI dashboard. **Live on Vercel** | SQL · Python · Power BI · Orange | 🔥 |
+| [🏨 Hotel Intelligence System](https://github.com/GhariebML/Hotel-Booking-Dashboard) | 11-table SQL DB from 119,390 records, ML cancellation prediction, Power BI dashboard. **Live on Vercel** | SQL · Python · Power BI | 🔥 |
 | [💪 Body Performance AI](https://github.com/GhariebML/apex-performance-app) | 5-stage ML pipeline, 74.26% accuracy Random Forest classifier. **Live on Vercel** | Python · Scikit-learn · Random Forest | 🔥 |
 | [📡 Telco Churn Prediction](https://github.com/GhariebML/Telco_Churn_Prediction) | End-to-end ML: XGBoost, SHAP explainability, Streamlit app | Python · XGBoost | 🔥 |
 | [🚗 UK Road Accident Analysis](https://github.com/GhariebML/UK-Road-Accident-Analysis) | EDA on 300K+ accident records — severity by road, weather & time | Python · Seaborn | 🔥 |
@@ -120,8 +118,10 @@
 <div align="center">
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GhariebML&theme=tokyo-night&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/GhariebML)
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GhariebML&theme=tokyo-night&hide_border=true&layout=compact)](https://github.com/GhariebML)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GhariebML&theme=tokyo-night&hide_border=true&area=true)](https://github.com/GhariebML)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GhariebML&theme=tokyo-night&hide_border=true)](https://github.com/GhariebML)
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=GhariebML&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/GhariebML)
 

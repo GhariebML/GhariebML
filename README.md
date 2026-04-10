@@ -8,6 +8,7 @@
   <a href="https://linkedin.com/in/ghariebml"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ghariebml@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/GhariebML/portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://mohamed-gharieb-portfolio.vercel.app"><img src="https://img.shields.io/badge/Website-0e75b6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=GhariebML&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS"/>
 </p>
 
@@ -17,15 +18,15 @@
 
 ## 👤 About Me
 
-> *Data Scientist & ML Engineer passionate about turning raw data into actionable business insights.*
+> *From Physics to AI — Data Scientist & ML Engineer building end-to-end AI systems that create measurable business impact.*
 
 | | |
 |---|---|
-| 📌 **Name** | Mohamed Abd Elsalam Mohamed Gharieb |
+| 📌 **Name** | Mohamed Gharieb |
 | 💼 **Current Role** | Applied AI & Data Analytics Trainee @ Digilians (MCIT) |
 | 🏢 **Founder & CEO** | LEADUP (Learn, Lead, Impact) — Non-profit since Dec 2022 |
-| 🎓 **Education** | Diploma in Nanotechnology — Beni-Suef University |
-| 🌍 **Location** | El Montazah, Alexandria, Egypt |
+| 🎓 **Education** | B.Sc. Physics | Applied AI & Data Science Specialization |
+| 🌍 **Location** | Alexandria, Egypt |
 | 📧 **Email** | ghariebml@gmail.com |
 | 💼 **Open To** | Data Scientist · ML Engineer · AI Engineer · Senior Data Analyst |
 | 🗣️ **Languages** | Arabic (Native) · English (Professional) |
@@ -35,49 +36,29 @@
 - 🔬 Build end-to-end **Machine Learning pipelines** from data cleaning to deployment
 - 📊 Conduct in-depth **Exploratory Data Analysis** on large real-world datasets
 - 🧠 Develop **NLP & Deep Learning** models (BERT, CNN, RNN, Transfer Learning)
-- 📊 Apply **Statistical Analysis** using IBM SPSS for research-grade insights
-- 📊 Create **interactive dashboards** with Power BI and Excel
+- 📈 Apply **Statistical Analysis** using IBM SPSS for research-grade insights
+- 📱 Create **interactive dashboards** with Power BI and Excel
 - 🌱 Lead **LEADUP** — a youth-led non-profit focused on SDG 4 (Quality Education)
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 **🐍 Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **🤖 Machine Learning & AI**
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logoColor=white)
 
 **📊 Data Analysis & Visualization**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![IBM SPSS](https://img.shields.io/badge/IBM_SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![IBM SPSS](https://img.shields.io/badge/IBM_SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
 **⚙️ Tools & Platforms**
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -85,13 +66,13 @@
 
 | 🔗 Project | 📝 Description | 🛠️ Stack | ⭐ |
 |:---|:---|:---|:---:|
-| [📊 Student Performance — SPSS](https://github.com/GhariebML/Student_Performance_Statistical_Analysis_SPSS) | Statistical analysis (n=20): EDA, Outlier Detection, t-Test, Pearson Correlation | IBM SPSS v29 | 🔥 |
+| [🏨 Hotel Intelligence System](https://github.com/GhariebML/Hotel-Booking-Dashboard) | 11-table SQL DB from 119,390 records, ML cancellation prediction, Power BI dashboard. **Live on Vercel** | SQL · Python · Power BI · Orange | 🔥 |
+| [💪 Body Performance AI](https://github.com/GhariebML/apex-performance-app) | 5-stage ML pipeline, 74.26% accuracy Random Forest classifier. **Live on Vercel** | Python · Scikit-learn · Random Forest | 🔥 |
 | [🔄 Telco Churn Prediction](https://github.com/GhariebML/Telco_Churn_Prediction) | End-to-end ML: XGBoost, SHAP explainability, Streamlit app | Python · XGBoost | 🔥 |
 | [🚗 UK Road Accident Analysis](https://github.com/GhariebML/UK-Road-Accident-Analysis) | EDA on 300K+ accident records — severity by road, weather & time | Python · Seaborn | 🔥 |
+| [📊 Student Performance — SPSS](https://github.com/GhariebML/Student_Performance_Statistical_Analysis_SPSS) | Statistical analysis (n=20): EDA, Outlier Detection, t-Test, Pearson Correlation | IBM SPSS v29 | ⭐ |
 | [🔐 SecurePass AI](https://github.com/GhariebML/ICAIL_Final_Graduation_Project_Random_Password_Maker) | ML password strength analyzer & secure generator — Graduation Project | Python · Random Forest | ⭐ |
 | [📚 NLP Text Representation](https://github.com/GhariebML/NLP_Text_Representation_Techniques) | BoW, TF-IDF, Word2Vec, BERT embeddings comparison | Python · HuggingFace | ⭐ |
-| [🤖 Deep Learning Course](https://github.com/GhariebML/The_Complete_Deep_Learning_Course) | CNN, RNN, Transfer Learning, real-world AI notebooks | TensorFlow · Keras | ⭐ |
-| [📊 ML Complete Course](https://github.com/GhariebML/ML_Complete_Course_By_Python) | Full ML course: regression, classification, clustering, pipelines | Python · Scikit-learn | ⭐ |
 
 ---
 
@@ -114,6 +95,7 @@
 | Applied AI & Data Analytics Diploma | Digilians / MCIT Digital Pioneers | 2025–Present |
 | Applied Statistics & Data Analysis | MTC — Dr. Noha Nabawy | March 2026 |
 | Aspire Leaders Program | Aspire Institute | Oct 2025 |
+| McKinsey Forward Program | McKinsey & Company | 2025 |
 
 ---
 
@@ -121,20 +103,12 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GhariebML&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhariebML&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GhariebML&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/GhariebML)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GhariebML&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)](https://github.com/GhariebML)
 
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GhariebML&theme=tokyonight&hide_border=true)](https://github.com/GhariebML)
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GhariebML&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=GhariebML&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+[![Trophy](https://github-profile-trophy.vercel.app/?username=GhariebML&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/GhariebML)
 
 </div>
 
@@ -142,11 +116,7 @@
 
 ## 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GhariebML&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GhariebML&theme=tokyo-night&hide_border=true&area=true)](https://github.com/GhariebML)
 
 ---
 
@@ -157,16 +127,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Gharieb-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghariebml)
 [![Gmail](https://img.shields.io/badge/Gmail-ghariebml%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghariebml@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-GhariebML-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhariebML)
-[![Facebook](https://img.shields.io/badge/Facebook-Dr.MohamedGharieb-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Dr.MohamedGharieb/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-0e75b6?style=for-the-badge&logo=vercel&logoColor=white)](https://mohamed-gharieb-portfolio.vercel.app)
 
 </div>
 
 ---
 
-<div align="center">
-
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-*"✨ Extracting Insights. Empowering Communities. Building the Future with Data. ✨"*
-
-</div>
+*"From Physics to AI — Extracting Insights, Deploying Solutions, and Building the Future with Data."*

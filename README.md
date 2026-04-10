@@ -170,34 +170,21 @@ I'm a Data Scientist and ML Engineer with a Physics background, focused on build
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Contributions
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GhariebML&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&border_radius=12" height="185" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhariebML&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&border_radius=12" height="185" />
+| Overall Statistics | Top Languages |
+|:---:|:---:|
+| <img src="https://github-readme-stats.vercel.app/api?username=GhariebML&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhariebML&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" /> |
 
-</div>
+<br/>
 
-<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GhariebML&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="800" alt="GitHub Streak" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GhariebML&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D" width="700"/>
+<br/>
 
-</div>
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=GhariebML&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=6&margin-h=6)](https://github.com/GhariebML)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GhariebML&theme=tokyo-night&hide_border=true&area=true&radius=8&custom_title=Mohamed%27s%20Contribution%20Activity)](https://github.com/GhariebML)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GhariebML&theme=tokyo-night&hide_border=true&area=true&custom_title=Annual%20Contribution%20Activity" width="800" alt="Contribution Graph" />
 
 </div>
 

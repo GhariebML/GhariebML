@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Mohamed Gharieb
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Data+Scientist+%26+ML+Engineer;IBM+%26+Google+Certified+Professional;NLP+%7C+Deep+Learning+%7C+Statistical+Analysis;Open+to+Freelance+%26+Full-time+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Data+Scientist+%26+ML+Engineer+%F0%9F%A4%96;IBM+%26+Google+Certified+Professional+%F0%9F%8F%86;NLP+%7C+Deep+Learning+%7C+Statistical+Analysis;Open+to+Freelance+%26+Full-time+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghariebml)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghariebml@gmail.com)
@@ -118,11 +118,8 @@
 <div align="center">
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GhariebML&theme=tokyo-night&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/GhariebML)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GhariebML&theme=tokyo-night&hide_border=true&layout=compact)](https://github.com/GhariebML)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GhariebML&theme=tokyo-night&hide_border=true)](https://github.com/GhariebML)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GhariebML&theme=tokyo-night&hide_border=true&area=true)](https://github.com/GhariebML)
 [![Trophy](https://github-profile-trophy.vercel.app/?username=GhariebML&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/GhariebML)
 
 </div>

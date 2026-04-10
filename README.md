@@ -31,36 +31,15 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+> *From Physics to AI — building end-to-end ML systems from raw data to deployed production.*
 
-```python
-class MohamedGharieb:
-    def __init__(self):
-        self.name       = "Mohamed Gharieb"
-        self.role       = "Data Scientist & ML Engineer"
-        self.location   = "Alexandria, Egypt 🇪🇬"
-        self.education  = "B.Sc. Physics & Nanotechnology"
-        self.current    = "Applied AI Trainee @ Digilians (MCIT)"
-        self.nonprofit  = "Founder & CEO @ LEADUP (SDG 4)"
-        self.email      = "ghariebml@gmail.com"
-        self.open_to    = ["Data Scientist", "ML Engineer", "AI Engineeer"]
+I'm a Data Scientist and ML Engineer with a Physics background, focused on building practical AI systems across the full pipeline — from EDA and statistical analysis to modeling, evaluation, and deployment.
 
-    def philosophy(self):
-        return "From Physics → AI: Model complex systems, extract signal from noise."
-
-    def superpower(self):
-        return "Turn messy data into production-ready ML systems 🚀"
-```
-
-<br clear="right"/>
-
-### 🔬 Background & Mission
-My foundation in **Physics & Nanotechnology** trained me to model complex systems, handle experimental noise, and apply rigorous analytical thinking. I have naturally transitioned these skills into **Applied AI and Data Science**, where I specialize in extracting signal from data and building end-to-end Machine Learning pipelines.
-
-### 💡 What I Bring
-- **End-to-End ML Pipelines:** From deep EDA and feature engineering to model deployment (FastAPI / Streamlit / Vercel).
-- **Advanced AI Systems:** NLP, Deep Learning, Computer Vision, and Transformer architectures.
-- **Data Storytelling:** Translating complex statistical analyses into actionable business strategies.
+- 🚀 2 live AI systems deployed on Vercel
+- 🏅 IBM Data Science & Google Data Analytics Professional Certificates
+- 🧠 Specialties: NLP · Deep Learning · Statistical Modeling · Power BI
+- 🌱 Founder & CEO of LEADUP — youth non-profit focused on SDG 4 Quality Education
+- 💼 Open to Data Scientist · ML Engineer · AI Engineer roles
 
 <div align="center">
 
@@ -222,7 +201,15 @@ My foundation in **Physics & Nanotechnology** trained me to model complex system
 
 </div>
 
+---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GhariebML/GhariebML/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
+</p>
+
+---
 
 ## 🤝 Let's Build Something Together
 

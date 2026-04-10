@@ -42,11 +42,8 @@ class MohamedGharieb:
         self.education  = "B.Sc. Physics & Nanotechnology"
         self.current    = "Applied AI Trainee @ Digilians (MCIT)"
         self.nonprofit  = "Founder & CEO @ LEADUP (SDG 4)"
-        self.certs      = ["IBM Data Science", "Google Analytics",
-                          "McKinsey Forward", "Aspire Leaders"]
         self.email      = "ghariebml@gmail.com"
-        self.open_to    = ["Data Scientist", "ML Engineer",
-                          "AI Engineer", "Senior Data Analyst"]
+        self.open_to    = ["Data Scientist", "ML Engineer", "AI Engineeer"]
 
     def philosophy(self):
         return "From Physics → AI: Model complex systems, extract signal from noise."
@@ -57,9 +54,13 @@ class MohamedGharieb:
 
 <br clear="right"/>
 
----
+### 🔬 Background & Mission
+My foundation in **Physics & Nanotechnology** trained me to model complex systems, handle experimental noise, and apply rigorous analytical thinking. I have naturally transitioned these skills into **Applied AI and Data Science**, where I specialize in extracting signal from data and building end-to-end Machine Learning pipelines.
 
-## 📊 Key Metrics
+### 💡 What I Bring
+- **End-to-End ML Pipelines:** From deep EDA and feature engineering to model deployment (FastAPI / Streamlit / Vercel).
+- **Advanced AI Systems:** NLP, Deep Learning, Computer Vision, and Transformer architectures.
+- **Data Storytelling:** Translating complex statistical analyses into actionable business strategies.
 
 <div align="center">
 
@@ -163,21 +164,11 @@ class MohamedGharieb:
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│  🏛️  Digilians — MCIT Digital Pioneers                                  │
-│      Applied AI & Data Analytics Trainee          Dec 2025 – Present    │
-│      ▸ Building end-to-end ML pipelines & deployed AI applications      │
-├─────────────────────────────────────────────────────────────────────────┤
-│  🌱  LEADUP (Non-profit · SDG 4 — Quality Education)                    │
-│      Founder & CEO                                 Dec 2022 – Present   │
-│      ▸ Leading youth programs for 1000s of Egyptian students            │
-├─────────────────────────────────────────────────────────────────────────┤
-│  🎓  Damanhour University                                               │
-│      Teaching Assistant — Physics Department  Sep 2022 – Jun 2023       │
-│      ▸ Taught Physics labs and data-driven experiments                  │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+| 🏛️ Organization | 📌 Role | 📅 Duration |
+|:---|:---|:---:|
+| **Digilians — MCIT Digital Pioneers** | Applied AI & Data Analytics Trainee <br/> *▸ Building end-to-end ML pipelines & deployed AI applications* | Dec 2025<br/>– Present |
+| **LEADUP** *(SDG 4 — Quality Education)* | Founder & CEO <br/> *▸ Leading youth programs for 1000s of Egyptian students* | Dec 2022<br/>– Present |
+| **Damanhour University** | Teaching Assistant — Physics Department <br/> *▸ Taught Physics labs and data-driven experiments* | Sep 2022<br/>– Jun 2023 |
 
 </div>
 
